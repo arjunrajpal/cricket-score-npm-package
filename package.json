@@ -2,15 +2,16 @@
   "name": "latest-cricket-scores",
   "version": "1.0.0",
   "description": "A package for showing latest cricket scores",
+  "bin": "app.js",
   "main": "app.js",
   "scripts": {
-    "test": "node ./app"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/arjunrajpal/cricket-score-npm-package.git"
   },
-  "author": "Arjun Rajpal & Dushyant Rathore",
+  "author": "Arjun Rajpal",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/arjunrajpal/cricket-score-npm-package/issues"
